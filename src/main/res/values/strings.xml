@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">APU Venue Booking System</string>
+
+    <!-- Images Data -->
+    <string name="Category1">Auditorium</string>
+    <string name="Category2">Classroom</string>
+    <string name="Category3">TechLab</string>
+    <string name="Category4">Meeting Room</string>
+    <string name="Category5">Atrium</string>
+    <string name="Category6">Booth</string>
+    <string name="Category7">Sports</string>
+
+</resources>
